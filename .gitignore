@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.egg-info/
+dist/
+.pytest_cache/
+.ruff_cache/
+data/processed/
+*.faiss
+*.pkl
